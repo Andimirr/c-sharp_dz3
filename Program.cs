@@ -16,7 +16,7 @@
 // Console.WriteLine("Enter the number N:");
 // double N = Convert.ToDouble(Console.ReadLine());
 
-//Cube(N);
+// Cube(N);
 
 // double Cube(double N)
 // {
@@ -73,7 +73,7 @@
 // 14212 -> нет
 // 12821 -> да
 // 23432 -> да
-//Console.Clear();
+// Console.Clear();
 //  bool IsPalindrom(string word, bool ignoreCase = true)
 // {
 //     var reversedWord = new string(word.Reverse().ToArray());
